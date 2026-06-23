@@ -21,7 +21,7 @@ To get a copy of this project up and running on your local machine, ensure you h
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/prachi720/Autovest-frontend.git
+git clone https://github.com/prachi720/Autovest.git
 cd Autovest-frontend
 ```
 ### 2. Install Dependencies
