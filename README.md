@@ -1,4 +1,5 @@
 # AutoVest 🤖💰
+**🌐 Live Demo:** [Click here to view the live app!](https://autovest-app.vercel.app/)           
 
 AutoVest is a smart, automated micro-investing prototype designed to simplify and automate small-scale investing based on intelligent spending and financial logic. 
 
